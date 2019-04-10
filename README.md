@@ -1,2 +1,0 @@
-#Readme 
-C++ program
